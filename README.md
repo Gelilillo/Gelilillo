@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy [Rigel Chuliá Ortega]!
+# 👋 ¡Hola, soy Rigel Chuliá Ortega!
 
 Soy un desarrollador apasionado por la tecnología, los datos y la inteligencia artificial.  
 Actualmente trabajo con **Python, C#, Kotlin y Unity**, y disfruto creando proyectos educativos, juegos y herramientas que mezclan creatividad y programación.
