@@ -43,9 +43,18 @@ Actualmente trabajo con **Python, C#, Kotlin y Unity**, y disfruto creando proye
 - 🌐 [Portfolio personal](https://tuweb.com)
 
 <div align="center">
+
+### 📊 Mis proyectos destacados
+
+[![TiempoPor-Matematicas](https://github-readme-stats.vercel.app/api/pin/?username=Gelilillo&repo=TiempoPor-Matematicas&theme=tokyonight)](https://github.com/Gelilillo/TiempoPor-Matematicas)
+
+</div>
+
+<div align="center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gelilillo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gelilillo&layout=compact&theme=tokyonight)
-[![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=Gelilillo&repo=repo1&theme=tokyonight)](https://github.com/Gelilillo/repo1)
+
+
 
 </div>
