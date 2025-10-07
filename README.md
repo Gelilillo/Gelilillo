@@ -35,11 +35,10 @@ Actualmente trabajo con **Python, C#, Kotlin y Unity**, y disfruto creando proye
 
 ## 📂 Proyectos destacados
 
-
 ---
 
 ## 📫 Cómo contactarme
-- ✉️ [tuemail@ejemplo.com](mailto:rigelchulia@gmail.com)
+- ✉️ [rigelchulia@gmail.com](mailto:rigelchulia@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/rigel-chuliá-ortega)
 - 🌐 [Portfolio personal](https://tuweb.com)
 
