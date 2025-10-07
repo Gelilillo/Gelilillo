@@ -8,7 +8,7 @@ Actualmente trabajo con **Python, C#, Kotlin y Unity**, y disfruto creando proye
 ## 💡 Sobre mí
 - 🎓 Técnico Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)**
 - 🎓 Ingeniero Técnico de Telecomunicaciones**
-- 🎓 Estudiando Master Universitario de Inteligencia Artificial [VIU](https://www.linkedin.com/in/tuusuario](https://www.universidadviu.com/es/master-inteligencia-artificial))**
+- 🎓 Estudiando Master Universitario de Inteligencia Artificial [VIU](https://www.universidadviu.com/es/master-inteligencia-artificial))**
 - 🧠 Experiencia en **análisis de datos**, **aprendizaje automático** y **desarrollo de juegos educativos**
 - 🔭 Actualmente desarrollando:
   - Una app en **Kotlin + Firebase** para que niños aprendan matemáticas
