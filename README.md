@@ -12,13 +12,13 @@ Actualmente trabajo con **Python, C#, Kotlin y Unity**, y disfruto creando proye
 - 🧠 Experiencia en **análisis de datos**, **aprendizaje automático** y **desarrollo de juegos educativos**
 - 🔭 Actualmente desarrollando:
   - Una app en **Kotlin + Firebase** para que niños aprendan matemáticas
-  - Un **juego en Unity** sobre lógica y rompecabezas para niños de primaria
 - 🌱 Aprendiendo más sobre **Machine Learning Engineering en Google Cloud**
 - 💬 Me interesa todo lo relacionado con:
   - 🚀 IA aplicada  
   - 🎮 Unity y desarrollo de videojuegos  
   - 📊 Análisis de datos y visualización en Power BI  
   - 🧩 Proyectos educativos interactivos
+  - 🤖 Automatizaciones con n8n
 
 ---
 
@@ -26,7 +26,7 @@ Actualmente trabajo con **Python, C#, Kotlin y Unity**, y disfruto creando proye
 | Categoría | Tecnologías |
 |------------|-------------|
 | 💻 Lenguajes | Python · C# · Kotlin · SQL · DAX |
-| 🧩 Frameworks | Unity · Jetpack Compose · Angular |
+| 🧩 Frameworks | Unity · Jetpack Compose · Angular · n8n|
 | ☁️ Backend / Cloud | Firebase · BigQuery · Google Cloud |
 | 📊 Data | Power BI · Pandas · Keras |
 | 🧠 IA | NLP · Machine Learning · TensorFlow |
